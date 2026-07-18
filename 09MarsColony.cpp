@@ -379,6 +379,12 @@ int main()
 
 
     mars.status();
+    
+   // this.sort();
+   // mars.filter();
+   // mars.map();
+   // mars.pop();
+   // this.shift();
 
 
 
